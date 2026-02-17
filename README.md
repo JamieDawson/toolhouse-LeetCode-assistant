@@ -1,6 +1,7 @@
 # Toolhouse code generator project
 
-This repo contains the frontend and backend code for my Toolhouse code generator project. In this project, you can send a "Generate FizzBuzz code. Execute it to show me the results up to 10" or "Give me a description of how FizzBuzz works and then show me some code"
+I built an AI app that helps users work through LeetCode problems by combining large language models with Toolhouse’s tool ecosystem. Toolhouse provides a collection of tools that can be wrapped around LLMs to extend their capabilities. In this project, I integrated Together AI with Toolhouse’s Code Interpreter tool to help developers study and get better at LeetCode.
+
 
 [Click this link to watch the video tutorial on how it's built!](https://youtu.be/B4iS1V-eEHs)
 
